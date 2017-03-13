@@ -1,0 +1,111 @@
+body, table { 
+	background: 		#000000;
+	color:			#ffffff;
+	font-family:		Arial, Helvetica, sans-serif;
+	font-size:		12px;
+}
+
+a {
+	color:			#ffff00;
+	font-family:		Arial, Helvetica, sans-serif;
+	background-color:	transparent;
+	
+}
+
+a:visited {
+	color:		#cccc00;
+}
+
+a:hover {
+	color:		#ff0000;
+}
+
+a:active {
+	color:		#ff0000;
+}
+
+.left {
+	text-align:		left;
+}
+
+.center {
+	text-align:		center;
+}
+
+.right {
+	text-align:		right;
+}
+
+address {
+	text-align:		right;
+}
+
+h1 {
+	font-family:		courier, sans-serif;
+}
+
+h2 {
+	font-family:		arial, sans-serif;
+	color:			#000000;
+	background-color:	#ffff00;
+}
+
+h3 {
+	font-family:		arial, sans-serif;
+	color:			#ffff00;
+	background-color:	#333333;
+}
+
+img {
+	border:			0px;
+}
+
+table.main {
+	width:			90%;
+	margin-left:		5%;
+	margin-right:		5%;	
+	border-collapse:	collapse;
+}
+
+table.fill {
+	width:			100%;
+	border-collapse:	collapse;
+}
+
+table.logins {
+	margin:			auto;
+}
+
+td.logins {
+	border-top-width:	0px;
+	border-right-width:	0px;
+	border-bottom:		1px dashed #666666;
+	border-left-width:	0px;
+	padding:		4px;
+}
+
+table.dates {
+	width:				100%;
+    background-color:   #333333;
+	padding:	4px;
+}
+
+td.dates {
+	width:				100%;
+    color:			yellow;
+	border-left:			10px;
+	border-bottom:			1px solid;
+	border-left:			1px solid;
+	border-right:			1px dotted;
+	border-top:			1px dotted;
+	border-color:			yellow;
+	padding:			4px;
+}
+
+img.right {
+	float:			right;
+}
+
+pre {
+	font-family:		courier, arial, sans-serif;
+}
