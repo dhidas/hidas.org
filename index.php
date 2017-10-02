@@ -1,7 +1,7 @@
 <?php include("includes/header.html"); ?>
 
 
-<h3>Assistant Physicist<br />
+<h3>Associate Scientist<br />
     National Synchrotron Light Source II</h3>
 
 <img style="padding-left: 25px" width="220" class="right" src="img/Me_Spain.jpg" alt="Dean Andrew Hidas" />
