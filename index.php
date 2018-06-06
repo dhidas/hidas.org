@@ -13,7 +13,7 @@
 
 
 <p>
-  I am currently an Assistant Physicist at Brookhaven National Laboratory in the Insertion Devices Group working on the National Synchrotron Light Source II.  Our group is responsible for the Undulators and Wigglers in a 3 GeV electron synchrotron which is designed to run up to 500 mA.  I am currently working with the control systems for many of the installed devices as well as future implementations.  I also work on analysis and simulation software related to the radiative properties for both devices measured in the lab and simulated devices.  I am the author of <a href="http://oscars.bnl.gov">OSCARS</a>.
+  I am currently an Associate Physicist at Brookhaven National Laboratory in the Insertion Devices Group working on the National Synchrotron Light Source II.  Our group is responsible for the Undulators and Wigglers in a 3 GeV electron synchrotron which is designed to run up to 500 mA.  I am currently working with the control systems for many of the installed devices as well as future implementations.  I also work on analysis and simulation software related to the radiative properties for both devices measured in the lab and simulated devices.  I am the author of <a href="http://oscars.bnl.gov">OSCARS</a>.
 </p>
 
 <p>
