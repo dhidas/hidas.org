@@ -52,7 +52,7 @@ Home of the Tevatron and CDF among others
 
 
 <p>
-<a href="http://www.phy.duke.edu/high-energy-physics-duke">Duke University High Energy Physics</a><br />
+<a href="http://phy.duke.edu/research/research-areas/high-energy-physics">Duke University High Energy Physics</a><br />
 My graduate years
 </p>
 
