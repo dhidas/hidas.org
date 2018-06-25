@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  My formal training and previous research was in High Energy Particle Physics.  My thesis was a search for the Higgs Boson on the <a href="http://www-cdf.fnal.gov">CDF</a> experiment at <a href="http://www.fnal.gov">Fermi National Accelerator Laboratory</a>.  I was a postdoc and CERN Associate with <a href="http://physics.rutgers.edu>">Rutgers University</a> on the <a href="http://cms.cern.ch">CMS</a> experiment where I was Technical Coordinator for the Pixel Luminosity Telescope detector project.  This is a high precision luminominator and silicon pixel charged particle tracking detector installed very close to the interaction point in CMS.  I also studied the charge collection properties of single and poly-crystal CVD diamonds and was involved in the first installation of a diamond pixel tracking detector in the LHC.
+  My formal training and previous research was in High Energy Particle Physics.  My thesis was a search for the Higgs Boson on the <a href="http://www-cdf.fnal.gov">CDF</a> experiment at <a href="http://www.fnal.gov">Fermi National Accelerator Laboratory</a>.  I was a postdoc and CERN Associate with <a href="http://physics.rutgers.edu">Rutgers University</a> on the <a href="http://cms.cern.ch">CMS</a> experiment where I was Technical Coordinator for the Pixel Luminosity Telescope detector project.  This is a high precision luminominator and silicon pixel charged particle tracking detector installed very close to the interaction point in CMS.  I also studied the charge collection properties of single and poly-crystal CVD diamonds and was involved in the first installation of a diamond pixel tracking detector in the LHC.
 </p>
 
 <p>
