@@ -28,7 +28,7 @@ I was part of the Rutgers HEX group and worked on both CMS and CDF
 
 
 <p>
-<a href="http://cms.web.cern.ch/">The CMS Experiment</a><br />
+<a href="http://cms.cern/">The CMS Experiment</a><br />
 I was on the CMS experiment at CERN
 </p>
 
