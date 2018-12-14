@@ -59,6 +59,14 @@
 
 
 <p>
+  D. Hidas <em>Novel, fast, open-source code for synchrotron radiation computation on arbitrary 3D geometries</em>, Proceedings of the International Computational Accelerator Physics Conference 2018, Key West, FL, USA (2018)
+<p>
+  D. Hidas, <em><a href="http://accelconf.web.cern.ch/AccelConf/ipac2017/papers/wepik121.pdf">Computation of Synchrotron Radiation on Arbitrary Geometries in 3D with Modern GPU, Multi-Core, and Grid Computing</a></em>, Proceedings of the International Particle Accelerator Conference 2017, Copenhagen (2017)
+</p>
+<p>
+  D. Hidas, <em><a href="http://accelconf.web.cern.ch/AccelConf/napac2016/papers/wepob53.pdf">Computation of Synchrotron Radiation</a></em>, Proceedings of the North American Particle Accelerator Conference 2016, Chicago, USA (2017)
+</p>
+<p>
   D. Duggan, E. Halkiadakis, D. Hidas, et. al. (CMS Collaboration), <em>Search for Three-Jet Resonances in pp Collisions at sqrt(s) = 7 TeV</em>, <a href="http://www.sciencedirect.com/science/article/pii/S0370269312011021">Physics Letters B 718</a> (2012)
 </p>
 <p>
@@ -81,6 +89,10 @@
 
 
 <h4>Selected Talks</h4>
+<p>
+  <em>Novel, fast, open-source code for synchrotron radiation computation on arbitrary 3D geometries</em>, International Computational Accelerator Physics Conference, Key West, FL, USA 2018
+<p>
+
 <p>
   <em>Pixel Luminosity Telescope: A Diamond Pixel Tracking Luminometer</em>. University of Warwick.  Coventry, UK. November 29, 2012.
 </p>
