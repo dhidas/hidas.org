@@ -59,7 +59,7 @@
 
 
 <p>
-  D. Hidas <em>Novel, fast, open-source code for synchrotron radiation computation on arbitrary 3D geometries</em>, Proceedings of the International Computational Accelerator Physics Conference 2018, Key West, FL, USA (2018)
+  D. Hidas <em><a href="http://icap2018.vrws.de/papers/tupag21.pdf">Novel, fast, open-source code for synchrotron radiation computation on arbitrary 3D geometries</a></em>, Proceedings of the International Computational Accelerator Physics Conference 2018, Key West, FL, USA (2018)
 <p>
   D. Hidas, <em><a href="http://accelconf.web.cern.ch/AccelConf/ipac2017/papers/wepik121.pdf">Computation of Synchrotron Radiation on Arbitrary Geometries in 3D with Modern GPU, Multi-Core, and Grid Computing</a></em>, Proceedings of the International Particle Accelerator Conference 2017, Copenhagen (2017)
 </p>
