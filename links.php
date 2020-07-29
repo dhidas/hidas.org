@@ -22,7 +22,7 @@ The project I am involved in at BNL
 
 
 <p>
-<a href="http://physics.rutgers.edu/hex/">Rutgers Experimental High Energy Group</a><br />
+<a href="https://physics.rutgers.edu/research/high-energy-experiment/">Rutgers Experimental High Energy Group</a><br />
 I was part of the Rutgers HEX group and worked on both CMS and CDF
 </p>
 
