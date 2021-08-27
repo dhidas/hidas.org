@@ -57,9 +57,12 @@
 
 <h4>Selected Publications</h4>
 
-
+<p>
+D. Hidas, T. Shaftan, T. Tanabe, <em><a href="https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.24.081601">Emittance and Energy Spread Compensation for Current and Future Low Emittance Synchrotron Light Sources</a></em>, Phys. Rev. Accel. Beams 24, 081601 (2021)
+</p>
 <p>
   D. Hidas <em><a href="http://icap2018.vrws.de/papers/tupag21.pdf">Novel, fast, open-source code for synchrotron radiation computation on arbitrary 3D geometries</a></em>, Proceedings of the International Computational Accelerator Physics Conference 2018, Key West, FL, USA (2018)
+</p>
 <p>
   D. Hidas, <em><a href="http://accelconf.web.cern.ch/AccelConf/ipac2017/papers/wepik121.pdf">Computation of Synchrotron Radiation on Arbitrary Geometries in 3D with Modern GPU, Multi-Core, and Grid Computing</a></em>, Proceedings of the International Particle Accelerator Conference 2017, Copenhagen (2017)
 </p>
@@ -91,7 +94,7 @@
 <h4>Selected Talks</h4>
 <p>
   <em>Novel, fast, open-source code for synchrotron radiation computation on arbitrary 3D geometries</em>, International Computational Accelerator Physics Conference, Key West, FL, USA 2018
-<p>
+</p>
 
 <p>
   <em>Pixel Luminosity Telescope: A Diamond Pixel Tracking Luminometer</em>. University of Warwick.  Coventry, UK. November 29, 2012.
