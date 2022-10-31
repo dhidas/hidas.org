@@ -57,6 +57,10 @@
 
 <h4>Selected Publications</h4>
 
+
+<p>
+D. Hidas, A. M. Kiss, M. Rakitin, J. Sinsheimer, T. Tanabe, M. Musardo, <em><a href="https://doi.org/10.1016/j.nima.2022.166505">High precision real-time insertion device and monochromator synchronization at NSLS-II</a></em>, Nuclear Instruments and Methods in Physics Research Section A, 1031 (2022)
+</p>
 <p>
 D. Hidas, T. Shaftan, T. Tanabe, <em><a href="https://journals.aps.org/prab/abstract/10.1103/PhysRevAccelBeams.24.081601">Emittance and Energy Spread Compensation for Current and Future Low Emittance Synchrotron Light Sources</a></em>, Phys. Rev. Accel. Beams 24, 081601 (2021)
 </p>
