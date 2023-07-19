@@ -1,7 +1,7 @@
 <?php include("includes/header.html"); ?>
 
 
-<h3>Physicist<br />
+<h3>Senior Physicist<br />
     Brookhaven National Laboratory</h3>
 
 <img style="padding-left: 25px" width="220" class="right" src="img/Me_Spain.jpg" alt="Dean Andrew Hidas" />
